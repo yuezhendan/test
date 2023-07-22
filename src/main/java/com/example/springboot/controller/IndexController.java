@@ -11,7 +11,7 @@ public class IndexController {
 
     @GetMapping
     public String getIndex(){
-        return "hello spring boot";
+        return "hello spring boot2222";
     }
 
 
